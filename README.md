@@ -1,4 +1,4 @@
-### Hi, I'm a data analyst in telecom 👋
+### Hi, I'm a data analyst & data scientist in telecom 👋
 
 I turn customer, sales and network data into decisions that move revenue — from the SQL pipeline and the data model
 to the dashboard the sales team opens on their phone, and the plan that follows from it.
