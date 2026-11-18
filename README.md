@@ -1,15 +1,15 @@
-### Hi, I'm a data analyst & data scientist in telecom 👋
+### Hi, I'm a data analyst & data scientist in telecom
 
 I turn customer, sales and network data into decisions that move revenue — from the SQL pipeline and the data model
 to the dashboard the sales team opens on their phone, and the plan that follows from it.
 
-- 📡 **Telecom, Thailand** — mobile, home broadband and retail channels, in Customer Value Management
-- 🛠️ **End to end** — data engineering (ETL, star schemas, SQL on Vertica / Netezza / SQL Server), analysis, dashboards, and ML when it earns its place
-- 📈 **Business first** — every project starts from a business question and ends with a number that changed
+- **Telecom, Thailand** — mobile, home broadband and retail channels, in Customer Value Management
+- **End to end** — data engineering (ETL, star schemas, SQL on Vertica / Netezza / SQL Server), analysis, dashboards, and ML when it earns its place
+- **Business first** — every project starts from a business question and ends with a number that changed
 
 ---
 
-## 📌 Featured projects
+## Featured projects
 
 > These are real work projects. Figures are **rescaled or synthetic** to protect confidential data;
 > the patterns, rankings and conclusions are unchanged.
@@ -31,16 +31,9 @@ to the dashboard the sales team opens on their phone, and the plan that follows 
 
 ---
 
-## 🧰 Toolbox
+## Toolbox
 
 **Data & SQL** — Vertica · Netezza · SQL Server / T-SQL · star-schema modelling · ETL design
 **Python** — pandas · data pipelines · graph neural networks (GATv2) · clustering · unit tests
 **Visualisation** — JavaScript dashboards (Chart.js, Leaflet) · interactive 3-D views · PowerPoint for management
 **Delivery** — Git & GitHub Actions · GitHub Pages · Cloudflare
-
-## 🧭 How I work
-
-- **Start from the decision.** Who acts on this, and what do they need to know?
-- **Make the numbers trustworthy.** Point-in-time joins, reconciliation against existing reports, data-quality checks, tests.
-- **Ship it where people work.** A mobile dashboard for the field team, a sized target list for the campaign team.
-- **Close the loop.** Measure what changed after the plan, not just what the data showed.
